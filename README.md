@@ -1,6 +1,7 @@
 Here is my solution to the fetch.
 
-##Docker Set up
+#
+Docker Set up
 
 1. Build the docker contianer with :
 
