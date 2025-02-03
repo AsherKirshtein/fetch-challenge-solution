@@ -7,9 +7,8 @@ Here is my solution to the Fetch Receipt Processor Challenge.
 ## 🚀 Docker Setup
 
 ### **1️⃣ Build the Docker Container**
-Run the following command to **build** the Docker image:
+Run the following command to **build** and **run** the Docker image:
 ```sh
 docker build -t receipt-processor .
-
 docker run -p 8000:8000 receipt-processor
 
