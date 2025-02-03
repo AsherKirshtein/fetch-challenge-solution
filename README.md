@@ -11,3 +11,9 @@ Run the following command to **build** the Docker image:
 ```sh
 docker build -t receipt-processor .
 
+
+### **2️⃣ Run the Container
+
+```sh
+docker run -p 8000:8000 receipt-processor
+
